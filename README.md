@@ -2,7 +2,6 @@
 
 > YouTube clone template called vuetube was built with vue js and vuetify
 
-Live Demo: [VueTube](https://vuetube-clone.netlify.app)
 
 ## Features / Pages
 
@@ -148,4 +147,4 @@ This project is licensed under the MIT License
 
 ## Developed by Reagan Ekhameye (Tech Reagan)
 
-Reach me on twitter [@techreagan](https://www.twitter.com/techreagan)
+
